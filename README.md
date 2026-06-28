@@ -1,0 +1,2 @@
+# Aplikasi-Analisis-Data-Eksploratif-Menggunakan-RShinny-2023-
+Di era digital, jumlah data terus meningkat sehingga diperlukan alat yang efektif untuk menganalisisnya. Aplikasi analisis data eksploratif berbasis RShiny memungkinkan pengguna melakukan eksplorasi data secara interaktif, menyajikan visualisasi yang informatif, serta menjalankan analisis statistik dengan mudah melalui antarmuka web yang sederhana.
